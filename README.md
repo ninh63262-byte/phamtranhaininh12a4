@@ -12,7 +12,7 @@ align="right"><font color="slate grey">I/ Một số thông tin cơ bản:</font
 <li>Chơi điện tử, trò chơi trực tuyến cùng bạn bè</li>
 <li>Môn học yêu thích của mình là Toán</li>
 </ul>
-<p>- Đây là cầu thủ bóng đá yêu thích nhất của mình</p>
+<p>- Cầu thủ bóng đá yêu thích nhất của mình là Lamine Yamal của câu lạc bộ Barcelona</p>
 <img src="123.jpg">
 <p>- Đây là bài hát yêu thích của mình<p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QxXYWMIQAcQ?si=bt5h3-pTjNerTUom" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
