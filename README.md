@@ -32,7 +32,7 @@ align="right"><font color="slate grey">I/ Một số thông tin cơ bản:</font
     <img src="b.jpg" style="width: 48%; height: auto; border-radius: 8px; object-fit: cover;">
 </div>
 
-<p>Đây là trang cá nhân facebook của mình:</p>
+<p>-Cuối cùng thì đây là trang cá nhân facebook của mình:</p>
 <a href="https://www.facebook.com/share/1F9zCZ9znf/?mibextid=wwXIfr" target="_blank">
     <img src="c.jpg" alt="Facebook" width="50">
 </a>
